@@ -1,11 +1,17 @@
 Get Google Street View image dates for a set of addresses
 
 selenium script:
+
 1. retrieve page
+
 2. navigate to address (test)
+
 3. navigate to street view
+
 3. a) handle if no street view available
+
 4. retrieve street view image date
+
 5. store image date text with address
 
 to-do:
